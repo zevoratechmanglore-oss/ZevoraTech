@@ -90,30 +90,51 @@ export const portfolio = [
 export const team = [
   {
     id: 1,
-    name: "Anush Poojary",
-    role: "CEO & Founder",
-    bio: "Visionary leader with 15+ years in tech innovation",
+    name: "Anush U Poojary",
+    role: "Chief Executive Officer (CEO)",
+    bio: "UX / Product Design & Brand Lead",
     image: ""
   },
   {
     id: 2,
-    name: "Michael Rodriguez",
-    role: "CTO",
-    bio: "Expert in scalable systems and AI architecture",
+    name: "Shree Ganesh Acharya",
+    role: "Chief Technology Officer (CTO)",
+    bio: "Web Operations Lead",
     image: ""
   },
   {
     id: 3,
-    name: "Emily Watson",
-    role: "Head of Design",
-    bio: "Award-winning designer focused on user experience",
+    name: "Glen Jayson Dmello",
+    role: "Chief Operating Officer (COO)",
+    bio: "Full Stack Engineer",
     image: ""
   },
   {
     id: 4,
-    name: "David Kim",
-    role: "Lead Engineer",
-    bio: "Full-stack expert passionate about clean code",
+    name: "Amith P ",
+    role: "LLM Integration Lead",
+    bio: "AI Systems & Prompt Engineering",
+    image: ""
+  },
+  {
+    id: 5,
+    name: "Balakrishna Kulal",
+    role: "Mobile Engineer",
+    bio: "Technical Prototyping",
+    image: ""
+  },
+  {
+    id: 6,
+    name: "Dhanush S Poojary",
+    role: "Research Engineer",
+    bio: "Quality Assurance Engineer",
+    image: ""
+  },
+  {
+    id: 7,
+    name: "Sushanth B S",
+    role: "AI Productization Lead",
+    bio: "AI Systems & Prompt Engineering",
     image: ""
   }
 ];
@@ -148,22 +169,22 @@ export const stats = [
 export const testimonials = [
   {
     id: 1,
-    name: "John Anderson",
-    role: "CEO, TechStart Inc",
+    name: "Anush U Poojary ",
+    role: "Director & CEO ",
     content: "ZevoraTech transformed our vision into a stunning reality. Their technical expertise and attention to detail exceeded our expectations.",
     rating: 5
   },
   {
     id: 2,
-    name: "Lisa Martinez",
-    role: "CTO, DataFlow Systems",
+    name: "Shree Ganesh Acharya",
+    role: "Director & CTO",
     content: "Working with ZevoraTech was seamless. They delivered a robust, scalable solution that has become the backbone of our operations.",
     rating: 5
   },
   {
     id: 3,
-    name: "Robert Chen",
-    role: "Founder, HealthTech Solutions",
+    name: "Glen Jayson Dmello",
+    role: "Founder",
     content: "The team's AI expertise helped us build an innovative product that's changing healthcare. Highly recommended!",
     rating: 5
   }
