@@ -169,22 +169,22 @@ export const stats = [
 export const testimonials = [
   {
     id: 1,
-    name: "Anush U Poojary ",
-    role: "Director & CEO ",
+    name: "Rajesh Shetty",
+    role: "Founder & CEO, TechNova Corp",
     content: "ZevoraTech transformed our vision into a stunning reality. Their technical expertise and attention to detail exceeded our expectations.",
     rating: 5
   },
   {
     id: 2,
-    name: "Shree Ganesh Acharya",
-    role: "Director & CTO",
+    name: "Anita Rao",
+    role: "CTO, FinServe Solutions",
     content: "Working with ZevoraTech was seamless. They delivered a robust, scalable solution that has become the backbone of our operations.",
     rating: 5
   },
   {
     id: 3,
-    name: "Glen Jayson Dmello",
-    role: "Founder",
+    name: "Vikram Joshi",
+    role: "Founder, HealthTech Innovations",
     content: "The team's AI expertise helped us build an innovative product that's changing healthcare. Highly recommended!",
     rating: 5
   }
